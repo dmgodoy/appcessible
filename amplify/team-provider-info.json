@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-appcessible-dev-215607-authRole",
+      "UnauthRoleArn": "arn:aws:iam::776530771024:role/amplify-appcessible-dev-215607-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::776530771024:role/amplify-appcessible-dev-215607-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-appcessible-dev-215607-deployment",
+      "UnauthRoleName": "amplify-appcessible-dev-215607-unauthRole",
+      "StackName": "amplify-appcessible-dev-215607",
+      "StackId": "arn:aws:cloudformation:us-east-1:776530771024:stack/amplify-appcessible-dev-215607/0b6f3e80-f0ff-11ed-a7fc-12614fd36473",
+      "AmplifyAppId": "d1ua04e0hdggdz"
+    },
+    "categories": {
+      "function": {
+        "makelist": {}
+      }
+    }
+  }
+}
